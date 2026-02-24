@@ -1,8 +1,8 @@
-## Olá! Eu sou Felipe Kock Mendonça 👋
+# Hello! My name is Felipe Kock Mendonça 👋
 
-- 🔭 Atualmente Trabalho como Estagiário
-- 📚 Estou no 3° semestre de Engenharia de Software
-- 👨‍💻 Estudando Front-End com React
+- 💻 I work as an IT Support Intern at the Orbenk Group.
+- 📚 I am in my 3rd semester of Software Engineering at the Catholic University of Santa Catarina.
+- 👨‍💻 I'm pursuing a career as a React Front-End Developer with Alura.
 
 ##
 
